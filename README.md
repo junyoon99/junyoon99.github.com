@@ -1,6 +1,1 @@
-theme : addf
-
-title : ㅁㄴㅇㄹ
-description : a.s.d.f.
-
-# WOW
+# 멋있는 대사!
